@@ -1,0 +1,19 @@
+{
+  "name": "testowy",
+  "version": "0.0.1",
+  "description": "x",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "nodemon": "nodemon src/main.js"
+  },
+  "author": "Drytcha",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.12"
+  }
+}
